@@ -1,0 +1,7 @@
+[project]
+authors = ["Meliksah Gürtemel"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "bulk_transfer"
+
+[dependencies]
